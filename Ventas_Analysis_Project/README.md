@@ -17,12 +17,12 @@ Este proyecto tiene como objetivi analizar las ventas de productos en una empres
 
 Instalar las dependencias necesarias:
 
+*
+
 ## Instrucciones 
 
-Descargar el dataset desde [enlace ] (si es necesario).
-
-Ejecutar el notebook Sales_Analysis.ipynb para realizar el análisis y obtener los resultados. 
+Ejecutar el notebook 1.- Limpieza de datos y pruebas de visualizacion.ipynb y enseguida 2.- Analisis de ventas, inshigth de las mismas.ipynb para tener los resultados del analisis
 
 ## Conclusiones
 
-Editar conclusiones
+conclusiones
