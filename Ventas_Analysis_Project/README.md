@@ -7,11 +7,11 @@ Este proyecto tiene como objetivi analizar las ventas de productos en una empres
 
 ## Estructura
 
-- **data/** Contiene los datasets utilizados para el analisis
+- **data** Contiene los datasets utilizados para el analisis
 
-- **notebooks/**: Jupyter notebooks con el analisis detallado
+- **notebooks**: Jupyter notebooks con el analisis detallado
 
-- **src/**: Codigo fuente con funciones de procesamiento y visualizacion de datos
+- **src**: Codigo fuente con funciones de procesamiento y visualizacion de datos
 
 ## Requisitos
 
