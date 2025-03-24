@@ -1,28 +1,31 @@
-# Analisis de Ventas Empresariales: Productos mas rentables
+# Análisis de Ventas - Proyecto en Progreso
 
-## Descripcion
+## Descripción
+Este proyecto busca analizar las ventas de una empresa, identificando patrones clave y posibles mejoras. Actualmente, el proyecto está en desarrollo, con limpieza de datos, visualización inicial y análisis exploratorio en curso.
 
-Este proyecto tiene como objetivi analizar las ventas de productos en una empresa para determinar cuales son los mas rentables
+## Estructura del proyecto
+- **1.- Limpieza de datos y pruebas de visualización.ipynb**: Se procesan los datos brutos, corrigiendo errores, manejando valores faltantes y generando visualizaciones preliminares.
+- **2.- Análisis de ventas, insights de las mismas.ipynb**: Se profundiza en el análisis para identificar tendencias, productos clave y patrones de ventas.
 
+## Progreso actual
+- **Limpieza de datos completada**.
+- **Visualización preliminar lista**.
+- **Análisis de ventas en curso**.
+- **Conclusiones pendientes**.
 
-## Estructura
+## Tecnologías utilizadas
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn para visualizaciones
 
-- **data** Contiene los datasets utilizados para el analisis
+---
 
-- **notebooks**: Jupyter notebooks con el analisis detallado
+## Próximos pasos
+- Refinar las visualizaciones y explorar más métricas.
+- Identificar productos más rentables y tendencias estacionales.
+- Construir un modelo predictivo para ventas futuras (opcional).
 
-- **src**: Codigo fuente con funciones de procesamiento y visualizacion de datos
+---
 
-## Requisitos
-
-Instalar las dependencias necesarias:
-
-*
-
-## Instrucciones 
-
-Ejecutar el notebook 1.- Limpieza de datos y pruebas de visualizacion.ipynb y enseguida 2.- Analisis de ventas, inshigth de las mismas.ipynb para tener los resultados del analisis
-
-## Conclusiones
-
-conclusiones
+  
+**Fecha de inicio:** Enero 2025
